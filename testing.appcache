@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Libaries
+./lib/bootstrap/dist/css/bootstrap.css
+./lib/angular/angular.js
+./lib/angular-route/angular-route.js
+
+# Views
+./index.html
+
+# JavaScript Source
+
+NETWORK:
+*

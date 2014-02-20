@@ -1,0 +1,19 @@
+{
+  "business" : [
+    {
+      "name" : "Dunkin Donut",
+      "imageUrl" : "",
+      "status" : "open"
+    },
+    {
+      "name" : "Royal",
+      "imageUrl" : "",
+      "status" : "closed"
+    },
+    {
+      "name" : "PotBelly",
+      "imageUrl" : "",
+      "status" : "open"
+    }
+  ]
+}
