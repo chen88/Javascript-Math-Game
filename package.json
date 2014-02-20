@@ -1,0 +1,9 @@
+{
+	"name": "Javascript-Math-Game",
+	"version": "0.0.1",
+	"devDependencies": {
+		"express" : "3.x",
+		"socket.io" : "0.9",
+		"bower" : "1.2.7"
+	}
+}

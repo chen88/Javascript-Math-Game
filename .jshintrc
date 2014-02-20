@@ -1,0 +1,8 @@
+{
+	"eqeqeq": false,
+	"onevar": true,
+	"latedef": false,
+	"undef": false,
+	"white": true,
+	"indent": 2
+}
