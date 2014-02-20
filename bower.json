@@ -1,0 +1,8 @@
+{
+	"name" : "Javascript-Math-Game-Dependencies",
+  "dependencies": {
+    "angular": "1.2.13",
+    "angular-route": "1.2.13",
+    "bootstrap": null
+  }
+}
